@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FalsaPosicionFORM", "FalsaPosicionFORM\FalsaPosicionFORM.csproj", "{8F0EEE84-9CE8-4984-BED7-70EDBFB5AC69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F0EEE84-9CE8-4984-BED7-70EDBFB5AC69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0EEE84-9CE8-4984-BED7-70EDBFB5AC69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0EEE84-9CE8-4984-BED7-70EDBFB5AC69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0EEE84-9CE8-4984-BED7-70EDBFB5AC69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDF6E66E-BB3C-4295-8CD0-8776EEDF4575}
+	EndGlobalSection
+EndGlobal

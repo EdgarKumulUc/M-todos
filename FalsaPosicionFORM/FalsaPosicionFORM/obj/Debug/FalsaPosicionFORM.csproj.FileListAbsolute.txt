@@ -1,0 +1,18 @@
+C:\Users\mineros\source\repos\FalsaPosicionFORM\FalsaPosicionFORM\bin\Debug\FalsaPosicionFORM.exe.config
+C:\Users\mineros\source\repos\FalsaPosicionFORM\FalsaPosicionFORM\bin\Debug\FalsaPosicionFORM.exe
+C:\Users\mineros\source\repos\FalsaPosicionFORM\FalsaPosicionFORM\bin\Debug\FalsaPosicionFORM.pdb
+C:\Users\mineros\source\repos\FalsaPosicionFORM\FalsaPosicionFORM\obj\Debug\FalsaPosicionFORM.csprojAssemblyReference.cache
+C:\Users\mineros\source\repos\FalsaPosicionFORM\FalsaPosicionFORM\obj\Debug\FalsaPosicionFORM.Form1.resources
+C:\Users\mineros\source\repos\FalsaPosicionFORM\FalsaPosicionFORM\obj\Debug\FalsaPosicionFORM.Properties.Resources.resources
+C:\Users\mineros\source\repos\FalsaPosicionFORM\FalsaPosicionFORM\obj\Debug\FalsaPosicionFORM.csproj.GenerateResource.cache
+C:\Users\mineros\source\repos\FalsaPosicionFORM\FalsaPosicionFORM\obj\Debug\FalsaPosicionFORM.exe
+C:\Users\mineros\source\repos\FalsaPosicionFORM\FalsaPosicionFORM\obj\Debug\FalsaPosicionFORM.pdb
+C:\Users\mineros\Desktop\8vo\METODOS NUMERICOS POR COMPUTADORA\Kumul.Edgar.Metodos-Numericos\PROGRAMAS\FalsaPosicionFORM\FalsaPosicionFORM\bin\Debug\FalsaPosicionFORM.exe.config
+C:\Users\mineros\Desktop\8vo\METODOS NUMERICOS POR COMPUTADORA\Kumul.Edgar.Metodos-Numericos\PROGRAMAS\FalsaPosicionFORM\FalsaPosicionFORM\bin\Debug\FalsaPosicionFORM.exe
+C:\Users\mineros\Desktop\8vo\METODOS NUMERICOS POR COMPUTADORA\Kumul.Edgar.Metodos-Numericos\PROGRAMAS\FalsaPosicionFORM\FalsaPosicionFORM\bin\Debug\FalsaPosicionFORM.pdb
+C:\Users\mineros\Desktop\8vo\METODOS NUMERICOS POR COMPUTADORA\Kumul.Edgar.Metodos-Numericos\PROGRAMAS\FalsaPosicionFORM\FalsaPosicionFORM\obj\Debug\FalsaPosicionFORM.csprojAssemblyReference.cache
+C:\Users\mineros\Desktop\8vo\METODOS NUMERICOS POR COMPUTADORA\Kumul.Edgar.Metodos-Numericos\PROGRAMAS\FalsaPosicionFORM\FalsaPosicionFORM\obj\Debug\FalsaPosicionFORM.Form1.resources
+C:\Users\mineros\Desktop\8vo\METODOS NUMERICOS POR COMPUTADORA\Kumul.Edgar.Metodos-Numericos\PROGRAMAS\FalsaPosicionFORM\FalsaPosicionFORM\obj\Debug\FalsaPosicionFORM.Properties.Resources.resources
+C:\Users\mineros\Desktop\8vo\METODOS NUMERICOS POR COMPUTADORA\Kumul.Edgar.Metodos-Numericos\PROGRAMAS\FalsaPosicionFORM\FalsaPosicionFORM\obj\Debug\FalsaPosicionFORM.csproj.GenerateResource.cache
+C:\Users\mineros\Desktop\8vo\METODOS NUMERICOS POR COMPUTADORA\Kumul.Edgar.Metodos-Numericos\PROGRAMAS\FalsaPosicionFORM\FalsaPosicionFORM\obj\Debug\FalsaPosicionFORM.exe
+C:\Users\mineros\Desktop\8vo\METODOS NUMERICOS POR COMPUTADORA\Kumul.Edgar.Metodos-Numericos\PROGRAMAS\FalsaPosicionFORM\FalsaPosicionFORM\obj\Debug\FalsaPosicionFORM.pdb

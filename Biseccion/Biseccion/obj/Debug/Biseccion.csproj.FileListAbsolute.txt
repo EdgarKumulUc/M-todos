@@ -1,0 +1,26 @@
+C:\Users\mineros\source\repos\Biseccion\Biseccion\bin\Debug\Biseccion.exe.config
+C:\Users\mineros\source\repos\Biseccion\Biseccion\bin\Debug\Biseccion.exe
+C:\Users\mineros\source\repos\Biseccion\Biseccion\bin\Debug\Biseccion.pdb
+C:\Users\mineros\source\repos\Biseccion\Biseccion\obj\Debug\Biseccion.csprojAssemblyReference.cache
+C:\Users\mineros\source\repos\Biseccion\Biseccion\obj\Debug\Biseccion.Form1.resources
+C:\Users\mineros\source\repos\Biseccion\Biseccion\obj\Debug\Biseccion.Properties.Resources.resources
+C:\Users\mineros\source\repos\Biseccion\Biseccion\obj\Debug\Biseccion.csproj.GenerateResource.cache
+C:\Users\mineros\source\repos\Biseccion\Biseccion\obj\Debug\Biseccion.exe
+C:\Users\mineros\source\repos\Biseccion\Biseccion\obj\Debug\Biseccion.pdb
+C:\Users\mineros\source\repos\Biseccion\Biseccion\bin\Debug\Biseccion.exe.manifest
+C:\Users\mineros\source\repos\Biseccion\Biseccion\bin\Debug\Biseccion.application
+C:\Users\mineros\source\repos\Biseccion\Biseccion\obj\Debug\Biseccion.exe.manifest
+C:\Users\mineros\source\repos\Biseccion\Biseccion\obj\Debug\Biseccion.application
+C:\Users\mineros\Desktop\8vo\METODOS NUMERICOS POR COMPUTADORA\Kumul.Edgar.Metodos-Numericos\PROGRAMAS\Biseccion\Biseccion\bin\Debug\Biseccion.exe.config
+C:\Users\mineros\Desktop\8vo\METODOS NUMERICOS POR COMPUTADORA\Kumul.Edgar.Metodos-Numericos\PROGRAMAS\Biseccion\Biseccion\bin\Debug\Biseccion.exe.manifest
+C:\Users\mineros\Desktop\8vo\METODOS NUMERICOS POR COMPUTADORA\Kumul.Edgar.Metodos-Numericos\PROGRAMAS\Biseccion\Biseccion\bin\Debug\Biseccion.application
+C:\Users\mineros\Desktop\8vo\METODOS NUMERICOS POR COMPUTADORA\Kumul.Edgar.Metodos-Numericos\PROGRAMAS\Biseccion\Biseccion\bin\Debug\Biseccion.exe
+C:\Users\mineros\Desktop\8vo\METODOS NUMERICOS POR COMPUTADORA\Kumul.Edgar.Metodos-Numericos\PROGRAMAS\Biseccion\Biseccion\bin\Debug\Biseccion.pdb
+C:\Users\mineros\Desktop\8vo\METODOS NUMERICOS POR COMPUTADORA\Kumul.Edgar.Metodos-Numericos\PROGRAMAS\Biseccion\Biseccion\obj\Debug\Biseccion.csprojAssemblyReference.cache
+C:\Users\mineros\Desktop\8vo\METODOS NUMERICOS POR COMPUTADORA\Kumul.Edgar.Metodos-Numericos\PROGRAMAS\Biseccion\Biseccion\obj\Debug\Biseccion.Form1.resources
+C:\Users\mineros\Desktop\8vo\METODOS NUMERICOS POR COMPUTADORA\Kumul.Edgar.Metodos-Numericos\PROGRAMAS\Biseccion\Biseccion\obj\Debug\Biseccion.Properties.Resources.resources
+C:\Users\mineros\Desktop\8vo\METODOS NUMERICOS POR COMPUTADORA\Kumul.Edgar.Metodos-Numericos\PROGRAMAS\Biseccion\Biseccion\obj\Debug\Biseccion.csproj.GenerateResource.cache
+C:\Users\mineros\Desktop\8vo\METODOS NUMERICOS POR COMPUTADORA\Kumul.Edgar.Metodos-Numericos\PROGRAMAS\Biseccion\Biseccion\obj\Debug\Biseccion.exe.manifest
+C:\Users\mineros\Desktop\8vo\METODOS NUMERICOS POR COMPUTADORA\Kumul.Edgar.Metodos-Numericos\PROGRAMAS\Biseccion\Biseccion\obj\Debug\Biseccion.application
+C:\Users\mineros\Desktop\8vo\METODOS NUMERICOS POR COMPUTADORA\Kumul.Edgar.Metodos-Numericos\PROGRAMAS\Biseccion\Biseccion\obj\Debug\Biseccion.exe
+C:\Users\mineros\Desktop\8vo\METODOS NUMERICOS POR COMPUTADORA\Kumul.Edgar.Metodos-Numericos\PROGRAMAS\Biseccion\Biseccion\obj\Debug\Biseccion.pdb
